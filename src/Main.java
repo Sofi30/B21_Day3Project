@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello Git Last Day");
         // B21 is super
         // B21 likes to create new classes
+        // B21 is successful tester
     }
 
 }
